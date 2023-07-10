@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "826468386637",
+    "firebase_url": "https://milktrackerproject-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "milktrackerproject",
+    "storage_bucket": "milktrackerproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826468386637:android:641ad045021d1f87e59904",
+        "android_client_info": {
+          "package_name": "com.example.milktracking2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826468386637-7fhmcdk31qi4bm3rm7hcuahspuq8tnpd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqzpTpMO-MhIzYr5Az-SyxMUHCLETzWUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826468386637-7fhmcdk31qi4bm3rm7hcuahspuq8tnpd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
