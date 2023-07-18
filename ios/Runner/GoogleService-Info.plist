@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>826468386637-8222v0g05u31r3j01egqmk216ucvo5fr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.826468386637-8222v0g05u31r3j01egqmk216ucvo5fr</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD6_dNWo-wFwk6sRNC-VrM7W-O_2kwj0HE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>826468386637</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.untitled1</string>
+	<key>PROJECT_ID</key>
+	<string>milktrackerproject</string>
+	<key>STORAGE_BUCKET</key>
+	<string>milktrackerproject.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:826468386637:ios:5623a3fc64a20a2ae59904</string>
+	<key>DATABASE_URL</key>
+	<string>https://milktrackerproject-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>
